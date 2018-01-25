@@ -1,5 +1,5 @@
-# todo-express-mvc-api
-A RESTful todo API built with express and mongoose using the MVC architecture. I use this for testing and learning frontend technologies. 
+# gpucomparisons.com
+A web app for comparing GPU's
 
 ## Assumptions
 mongodb is installed locally
